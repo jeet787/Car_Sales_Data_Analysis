@@ -9,7 +9,7 @@ The dashboard enables stakeholders to **monitor sales KPIs, compare performance 
 ---
 
 ## 🔗 Live Dashboard
-👉 [Click here to view the Tableau Dashboard]([LIVE_DASHBOARD_LINK_HERE](https://public.tableau.com/app/profile/satyajeet.katkar/viz/CarSalesAnalysis_17587894977150/Dashboard1?publish=yes))
+👉 [Click here to view the Tableau Dashboard](https://public.tableau.com/app/profile/satyajeet.katkar/viz/CarSalesAnalysis_17587894977150/Dashboard1?publish=yes)
 
 ---
 

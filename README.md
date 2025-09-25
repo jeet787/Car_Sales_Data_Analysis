@@ -39,10 +39,10 @@ The dashboard tracks the following **KPIs**:
 ## 📈 Insights & Data Story
 Some of the key insights discovered:
 - 🚀 **Top-performing brands/models** generate a major share of sales revenue.  
-- 🌍 **Regional differences** highlight strong markets and underperforming areas.  
-- 📅 **Seasonality in sales** shows peak months and periods of decline.  
-- 📊 **YoY growth rate** indicates overall performance trends.  
+- 📅 **Seasonality in sales** shows peak months and periods of decline.
+- **🚗 Body Type based sales** shows sales or revenue based on cars body type.
 
+  
 **Data Story:**  
 The analysis shows that while overall sales are strong, growth is uneven across brands and regions. By focusing on high-performing markets and optimizing underperforming ones, companies can capture untapped revenue opportunities. The data-driven story highlights who is buying, where sales are thriving, and how performance changes over time, giving decision-makers a clear roadmap for strategic action.
 
@@ -61,7 +61,6 @@ The analysis shows that while overall sales are strong, growth is uneven across 
 ## 🛠️ Tools & Technologies Used
 - **Tableau Desktop / Tableau Public** – For building dashboards  
 - **Excel / CSV** – Source dataset  
-- **SQL (optional)** – For data transformation and cleaning  
 - **GitHub** – Project documentation and version control  
 
 ---
